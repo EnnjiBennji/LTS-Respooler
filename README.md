@@ -8,7 +8,7 @@ The LTS Respooler is a compact and slightly over-engineered filament Respooler o
 
 ## 🚀 Getting started
 
-- All the 3D files can be downloaded and printed from [MakerWorld](https://makerworld.com/models/448008)
+- All the 3D files can be downloaded and printed from [MakerWorld](https://makerworld.com/@lukas.tu)
 - Assembly Intructions and the Needed Hardware PDF can also be found there
 - Most of the Hardware can be ordered from Bambu Lab's Maker's Supply
 - PCBs can be ordered from my [Website](https://lts-design.com) or on [PCBWay](https://www.pcbway.com/project/member/?bmbno=7102E4BB-3522-48)
